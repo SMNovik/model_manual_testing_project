@@ -1,2 +1,2 @@
-# model_manual_testing_project
+# Проект ручного тестирования "Дом питомца"
 manual testing project
